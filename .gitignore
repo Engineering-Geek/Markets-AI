@@ -1,2 +1,6 @@
 /venv/
 /.idea/
+/data/.ipynb_checkpoints
+/data/data
+/data/settings.json
+/tmp/
