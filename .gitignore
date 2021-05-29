@@ -1,6 +1,5 @@
 /venv/
 /.idea/
-/data/.ipynb_checkpoints
-/data/data
-/data/settings.json
+src/Markets_AI/data/data
 /tmp/
+/.ipynb_checkpoints/
